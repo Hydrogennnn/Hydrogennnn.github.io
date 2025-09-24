@@ -28,7 +28,7 @@ His research focuses on Multi-view Learning and Continual Learning.
 \* Equal contribution $\dagger$ Corresponding author
 {% assign papers = site.data.papers %}
 
-{% for paper in papers %}
+<!-- {% for paper in papers %}
 <div class='paper-box'>
   <div class='paper-box-image'>
     <img src='{{ paper.img }}' alt='sym'>
@@ -39,7 +39,39 @@ His research focuses on Multi-view Learning and Continual Learning.
     <div class="authors">{{ paper.authors | markdownify }}</div>
   </div>
 </div>
-{% endfor %}
+{% endfor %} -->
+
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <img src='images/DualVAE.jpg' alt='sym'>
+  </div>
+  <div class='paper-box-text'>
+    <p><strong>[IJCAI2025]</strong></p>
+    <a href="https://doi.org/10.24963/ijcai.2025/701" target="_blank">
+      Learning Robust Multi-view Representation Using Dual-masked VAEs
+    </a>
+    <div class="authors">
+      <strong>Jiedong Wang</strong>, Kai Guo, Peng Hu, Xi Peng, Hao Wang$\dagger$
+    </div>
+  </div>
+</div>
+
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <img src='images/CL2P.jpg' alt='sym'>
+  </div>
+  <div class='paper-box-text'>
+    <p><strong>[IJCAI2025]</strong></p>
+    <a href="https://doi.org/10.24963/ijcai.2025/586" target="_blank">
+      Disentangling Multi-view Representations via Curriculum Learning with Learnable Prior
+    </a>
+    <div class="authors">
+      Kai Guo, <strong>Jiedong Wang</strong>, Xi Peng, Peng Hu, Hao Wang$\dagger$
+    </div>
+  </div>
+</div>
+
+
 
 # 🎖 Honors and Awards
 - *2023.11*: &nbsp;The 2023 ICPC Asia Hefei Regional Contest, Silver Medal.
@@ -48,5 +80,5 @@ His research focuses on Multi-view Learning and Continual Learning.
 <script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js">
 </script>
 <span id="busuanzi_container_site_pv">    
-	总访问量<span id="busuanzi_value_site_pv"></span>次
+	Total Views:<span id="busuanzi_value_site_pv"></span>
 </span>
