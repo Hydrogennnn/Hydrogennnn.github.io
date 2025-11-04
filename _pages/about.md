@@ -76,6 +76,8 @@ His research focuses on Multi-view Learning and Continual Learning.
 # 🎖 Honors and Awards
 - *2023.11*: &nbsp;The 2023 ICPC Asia Hefei Regional Contest, Silver Medal.
 - *2024.9*: &nbsp;National Scholarship(Undergraduate, Top 2%).
+- *2025.10*: &nbsp;Outstanding Graduate of Sichuan Province.
+
 
 <script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js">
 </script>
