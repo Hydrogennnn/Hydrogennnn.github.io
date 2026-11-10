@@ -17,7 +17,8 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Jiedong Wang(王杰栋) is an undergraduate student at the College of Computer Science, Sichuan University(SCU), advised by Prof.[Hao Wang](https://cshaowang.github.io) of [XLearning](https://pengxi.me/) research group at SCU. 
+Jiedong Wang(王杰栋) is a PH.D. candidate at Nanjing University, under the supervision of Prof.[Wei Ji](https://jiwei0523.github.io/).
+He was previously an undergraduate student at Sichuan University(SCU) and worked as a research intern at [XLearning](https://pengxi.me/) research group, advised by Prof.[Hao Wang](https://cshaowang.github.io).
 
 His research focuses on Multi-view Learning and Continual Learning.
 
